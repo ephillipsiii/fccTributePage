@@ -8,13 +8,39 @@ html, body {
     text-align: center;
 }
 
+#title {
+    font-size: 10em;
+    padding-bottom: -10%;
+}
 h1 {
     display: block;
+    
 }
 
 #img {
     display: block;
+    margin: auto;
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 400px;
+}
+
+#img-caption {
+    font-size: .75em;
+}
+#sub-title {
+    display: block;
+    margin: auto;
+    font-size: 3em;
+    
+}
+
+#tribute-info {
+    display: block;
+    margin: auto;
+    text-align: left;
+    width: 40%;
+}
+#tribute-title {
+    font-size: 2em;
 }
