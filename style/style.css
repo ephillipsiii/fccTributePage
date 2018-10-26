@@ -1,8 +1,20 @@
-body {
+
+
+
+html, body {
     background-color: black;
     color: white;
+    font-family: 'Merriweather', serif;
+    text-align: center;
 }
 
-#img-div {
-    
+h1 {
+    display: block;
+}
+
+#img {
+    display: block;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
 }
