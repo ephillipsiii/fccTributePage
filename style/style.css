@@ -17,35 +17,32 @@ h1 {
     
 }
 
-#img {
-    /* display: block;
-    margin: auto;
-    border-radius: 50%;
-    height: 300px;
-    width: 350px;
-    padding: 2%; */
-    width: 100%;
-height: auto;
-
-max-width: 40%;
-margin-left: auto;
-margin-right: auto;
-display: block;
+#image {
+    display: block;
+    max-width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
 #img-div {
-    /* background-color: grey; */
+        display: block;
+    
 }
 
 #img-caption {
     font-size: .75em;
+    
+
 }
 #sub-title {
     display: block;
     margin: auto;
     font-size: 3em;
-    
+    padding: -10%;
+    margin-bottom: 5%;
+    margin-top: -5%;
 }
 
 #tribute-info {
@@ -57,3 +54,4 @@ display: block;
 #tribute-title {
     font-size: 2em;
 }
+
